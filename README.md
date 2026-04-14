@@ -117,7 +117,7 @@ Revenue Volume = SUM(data[Revenue])
 
 ```
 📦 codealpha-task3-powerbi
- ┣ 📊 d2.pbix              ← Power BI Dashboard file
+ ┣ 📊 task3_codeAlpha_updated.pbix            ← Power BI Dashboard file
  ┣ 📄 README.md            ← Project documentation (this file)
  ┗ 📁 assets/              ← Screenshots of the dashboard (optional)
      ┗ 🖼️ dashboard_preview.png
@@ -133,7 +133,7 @@ Revenue Volume = SUM(data[Revenue])
 4. Explore the dashboard — use the **Date slicer** to filter by time range
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/codealpha-task3-powerbi.git
+git clone https://github.com/raghad612/ecommerce-sales-dashboard.git
 ```
 
 ---
